@@ -986,11 +986,11 @@ body {
 
 
 .contacts-footer__item_phone{
-    background: url(/footer/01.svg) left no-repeat;
+    background: url(footer/01.svg) left no-repeat;
 }
 .contacts-footer__item_map{
-    background: url(/footer/02.svg) left no-repeat;
+    background: url(footer/02.svg) left no-repeat;
 }
 .contacts-footer__item_email{
-    background: url(/footer/03.svg) left no-repeat;
+    background: url(footer/03.svg) left no-repeat;
 }
